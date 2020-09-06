@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Alberto%20Monteiro-blue?logo=LinkedIn&style=flat-square&link=https://www.linkedin.com/in/albertomonteiro/)](https://www.linkedin.com/in/albertomonteiro/)
 [![Medium Badge](https://img.shields.io/badge/-@albertomonteiro-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@albertomonteiro)](https://medium.com/@albertomonteiro)
 [![YouTube](https://img.shields.io/badge/-Alberto%20Monteiro-c14438?logo=YouTube&style=flat-square&link=https://www.youtube.com/channel/UCDTMgpC_HkyNTo03Yr2pFig)](https://www.youtube.com/channel/UCDTMgpC_HkyNTo03Yr2pFig)
-[![GitHub](https://img.shields.io/badge/-@AlbertoMonteiro-black?logo=GitHub&style=flat-square&link=https://www.youtube.com/channel/UCDTMgpC_HkyNTo03Yr2pFig)](https://www.youtube.com/channel/UCDTMgpC_HkyNTo03Yr2pFig)
+[![GitHub](https://img.shields.io/badge/-@AlbertoMonteiro-black?logo=GitHub&style=flat-square&link=https://github.com/AlbertoMonteiro?tab=repositories)](https://github.com/AlbertoMonteiro?tab=repositories)
 
 ## Hi 👋,
 
